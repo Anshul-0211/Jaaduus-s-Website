@@ -33,7 +33,7 @@ class Paper {
 
       const angle = Math.atan2(dirNormalizedY, dirNormalizedX);
       let degrees = 180 * angle / Math.PI;
-      degrees = (360 + Math.round(degrees)) % 400;
+      degrees = (360 + Math.round(degrees)) % 380;
       if(this.rotating) {
         this.rotation = degrees;
       }
