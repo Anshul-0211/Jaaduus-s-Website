@@ -26,35 +26,35 @@ body {
     position: absolute;
 }
 .p1{    
-    padding: 1px 75px;
+    padding: 1px 100px;
     margin: 100px;
 }
 .p2{
-    padding: 1px 140px;
+    padding: 5px 160px;
 }
 .p3{
-    padding: 1px 10px;
+    padding: 5px 20px;
 }
 .p4{
     font-family: 'satisfy';
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 1px 15px;
-    transform: scale(0.75);
-    width: 530px;
-    height: 450px;
+    padding: 5px 25px;
+    transform: scale(0.5);
+    width: 580px;
+    height: 500px;
 
 }
 .p5{
     font-size:20px;
-    width: 400px;
-    height:400px;
+    width: 500px;
+    height:500px;
     font-family: 'satisfy';
     display: flex;
     flex-direction: column;
-    transform: scale(0.75);
-    padding: 20px ;
+    transform: scale(0.5);
+    padding: 30px ;
     align-items: center;
     
 }
@@ -65,7 +65,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 20px;
-    transform: scale(0.75);
+    transform: scale(0.5);
 }
 p{
     text-align: center;
